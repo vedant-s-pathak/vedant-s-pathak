@@ -52,7 +52,7 @@ Computer Science & Artificial Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant%20Pathak-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vedant-pathak-)
 
-[![GitHub](https://img.shields.io/badge/GitHub-idiosyncratic16-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/idiosyncratic16)
+[![GitHub](https://img.shields.io/badge/GitHub-idiosyncratic16-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vedant-s-pathak)
 
 ---
 
